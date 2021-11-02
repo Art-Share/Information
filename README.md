@@ -1,4 +1,4 @@
-# _Information_ 
+# _정보_ 
 
 #
 
@@ -6,11 +6,11 @@
 
 
 
-# Privacy  
-We take privacy seriously and we follow laws like COPPA and will soon have ArtShare™ Kids, we also follow the fact that you can remove your data from everywhere, if you feel unsafe and want to wipe your account out permanently, please contact **deletion@artshare.ml**. 
+# 은둔  
+우리는 개인 정보를 중요하게 생각하며 COPPA와 같은 법률을 따르며 곧 ArtShare™ Kids를 갖게 됩니다. 또한 모든 곳에서 데이터를 제거할 수 있다는 사실을 따릅니다. 안전하지 않다고 느끼고 계정을 영구적으로 지우고 싶다면 **deletion@artshare.ml**.
 
 
-# Copyright and Law
+# 저작권 및 법률
 
 
 
