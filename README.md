@@ -7,8 +7,11 @@
 
 
 # Privacy  
-ArtShare has strict privacy laws based on the government across the world. To make things simple, We follow laws of almost **EVERY country**: United States, Canada, United Kingdom, Mexico, South Korea, and more
+We take privacy seriously and we follow laws like COPPA and will soon have ArtShare™ Kids, we also follow the fact that you can remove your data from everywhere, if you feel unsafe and want to wipe your account out permanently, please contact **deletion@artshare.ml**. 
 
-# Copyright
+
+# Copyright and Law
+
+
 
 #
