@@ -1,8 +1,8 @@
 # _Information_ 
 
 #
-DISCLAIMER: We are not experts at law or DMCA/copyright, we use public information wisely to asd more information.
-#
+`DISCLAIMER:`All of the information related to law has been given by legal experts, we are not legal experts though and cannot manage any part of these laws.
+
 
 
 
