@@ -1,7 +1,7 @@
 # _Information_ 
 
 #
-
+DISCLAIMER: We are not experts at law or DMCA/copyright, we use public information wisely to asd more information.
 #
 
 
