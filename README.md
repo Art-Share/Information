@@ -1,14 +1,14 @@
 <div align="center">
 
-<strong>Thank you all for being such loyal membees of ArtSpace, we appreciate it!</strong></br></br>
+<strong>🤝 Thank you all for being such loyal membees of ArtSpace, we appreciate it!</strong></br></br>
 
   
 
-<img src="https://github.com/dothq/browser-ff/blob/nightly/src/dot/branding/default256.png" height="80" length="80">
+<img src="https://firebasestorage.googleapis.com/v0/b/artshare-app.appspot.com/o/MainIcon.jpg?alt=media&token=f34ce7ce-d045-4097-af0a-b27e8fea1dd5" height="80" length="80">
 
-# Dot Browser
+# ArtSpace
 
 Dot Browser is a privacy-conscious web browser with smarts built-in for protection against trackers and advertisements online.
 
-[![Discord](https://discordapp.com/api/guilds/525056817399726102/widget.png?style=shield)](https://invite.gg/dot)
+[![Discord](https://discordapp.com/api/guilds/525056817399726102/widget.png?style=shield)](https://discord.gg/j3WcghBBhr)
 
