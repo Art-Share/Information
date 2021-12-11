@@ -1,6 +1,6 @@
 <div align="center">
 
-<strong>Dot Browser is alpha software, and you will most likely experience bugs and issues!</strong></br></br>
+<strong>Thank you all for being such loyal membees of ArtSpace, we appreciate it!</strong></br></br>
 
   
 
