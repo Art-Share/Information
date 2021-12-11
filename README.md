@@ -8,7 +8,7 @@
 
 # ArtSpace
 
-Dot Browser is a privacy-conscious web browser with smarts built-in for protection against trackers and advertisements online.
+ArtSpace is a 
 
 [![Discord](https://discord.com/api/guilds/891651964201480252/widget.png?style=shield)](https://discord.gg/j3WcghBBhr)
 
